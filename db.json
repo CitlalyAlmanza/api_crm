@@ -1,0 +1,28 @@
+{
+  "Clientes": [
+    {
+      "nombre": "Aideé de Jesús",
+      "empresa": "Comestics",
+      "email": "correo@correo.com",
+      "telefono": "44985263",
+      "notas": "asdasd\nasd\nas\ndasd",
+      "id": 1
+    },
+    {
+      "nombre": "Alonso Perez",
+      "empresa": "Alonso empresa",
+      "email": "prueba@gmail.com",
+      "telefono": "4492250841",
+      "notas": "Hola que hace?",
+      "id": 2
+    },
+    {
+      "nombre": "Jesusin",
+      "empresa": "Jesusin empresa",
+      "email": "jaa4312@hotmail.com",
+      "telefono": "449635281",
+      "notas": "NOtas varias",
+      "id": 3
+    }
+  ]
+}
